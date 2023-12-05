@@ -1,0 +1,19 @@
+{
+  "name": "mongodbautoip",
+  "version": "1.0.4",
+  "description": "Automatically update MongoDB Atlas IP whitelist when server ip changes, and delete the old ones.",
+  "main": "lib/index.js",
+  "keywords": ["mongodb", "ip-whitelist", "auto-update", "security", "database", "heroku", "nodejs"],
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "nodejs": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
